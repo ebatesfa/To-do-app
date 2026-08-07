@@ -1,0 +1,1 @@
+document.createElement() is used to create html element in javascript.
